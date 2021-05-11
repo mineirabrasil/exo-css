@@ -1,0 +1,20 @@
+body>header {
+    border: solid hsl(0, 0%, 16%);
+    border-width: 1px 6px;
+    height: calc( 100vh / 3 );
+    box-sizing: border-box;
+    overflow: hidden;
+    background-image: url("https://wallpaperaccess.com/full/499859.jpg");
+    background-size: cover; /*couvre tte la surface*/
+    background-repeat: no-repeat;
+    background-position: 30%;
+}
+/*h1 {
+    font-size: calc ( 165% * 12px );
+    font-weight: 700;
+    letter-spacing: 150%;
+    line-height: 180%;
+}*/
+body header h2 {
+    color: green !important;
+}

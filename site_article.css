@@ -1,0 +1,12 @@
+body >main article {
+    background-color: hsl(57, 44%, 93%);
+}
+body>main>article>header h2, h3 {
+    color: hsl(0, 0%, 31%);
+}
+a {
+    /*text-decoration: underline 2px;*/
+    border-bottom: 2px solid black;
+    font-weight: 300;
+    cursor: pointer;
+}
