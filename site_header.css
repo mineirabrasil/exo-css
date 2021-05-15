@@ -7,7 +7,7 @@ body>header {
     background-image: url("https://wallpaperaccess.com/full/499859.jpg");
     background-size: cover; /*couvre tte la surface*/
     background-repeat: no-repeat;
-    background-position: 30%;
+    background-position: 30% center;
 }
 /*h1 {
     font-size: calc ( 165% * 12px );
