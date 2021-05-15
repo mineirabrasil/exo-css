@@ -1,0 +1,6 @@
+body>footer {
+    background-color: hsl(0, 0%, 16%);
+    height: 40px;
+    overflow: hidden;
+    color: white;
+}
