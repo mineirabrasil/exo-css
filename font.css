@@ -17,5 +17,5 @@
     font-style: normal;
     font-weight: 700;
     font-display: swap;
-    src: url("asset/font/JosefinSlab-Bold.ttf") format("truetype"), local("Times New Roman"), local(serif);
+    src: url("./asset/font/JosefinSlab-Bold.ttf") format("truetype"), local("Times New Roman"), local(serif);
 }
